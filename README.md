@@ -2,7 +2,7 @@
 
 No Coin is the most secure, inflation-proof crypto currency. Risk nothing by having no coins.
 
-## What is No Coin
+## What is No Coin?
 
 No Coin is an experimental digital currency. It has no central authority and no peers are required for it's non-existent network.
 
