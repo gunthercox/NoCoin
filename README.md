@@ -15,6 +15,18 @@ Recipients of No Coin will have the full value of the transfer immediately.
 
 No Coin has no transfer fees because it has no value.
 
+## How to mine
+
+Here is an example you can run on just about any system.
+
+Start with the following command:
+
+```
+
+```
+
+You should observe no coins being produced.
+
 ## Wallets
 
 There isn't any. You don't need one.
